@@ -1,16 +1,13 @@
-### Hi there 👋
+### E ai, beleza?👋
 
-<!--
-**Skmuell/Skmuell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Eu sou estudante de Licenciatura em Computação na UPE-Campus Garanhuns.
+- 📫 Me contacte pelo email: joao.samuellc@gmail.com
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skmuell&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skmuell&layout=compact&theme=dracula)](https://github.com/skmuell/github-readme-stats)
+
+<div>
+  <a href="https://www.instagram.com/skmuell/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"><a>
+</div>
+
