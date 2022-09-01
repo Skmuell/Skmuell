@@ -1,7 +1,7 @@
 ### E ai, beleza?👋
 
-- 🔭 Eu sou estudante de Licenciatura em Computação na UPE-Campus Garanhuns.
-- 📫 Me contacte pelo email: joao.samuellc@gmail.com
+- 🔭 I am a graduate student in Computer Science at UPE-Campus Garanhuns.
+- 📫 Contact me by email:: joao.samuellc@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skmuell&show_icons=true&theme=dracula)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skmuell&layout=compact&theme=dracula)](https://github.com/skmuell/github-readme-stats)
 
