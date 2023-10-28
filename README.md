@@ -3,7 +3,6 @@
 - 🔭 Graduando de Licenciatura em Computação na UPE-Campus Garanhuns.
 - 📫 Contate me pelo email: joao.samuellc@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skmuell&show_icons=true&theme=dracula)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skmuell&layout=compact&theme=dracula)](https://github.com/skmuell/github-readme-stats)
 
 
 
