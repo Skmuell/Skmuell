@@ -1,4 +1,4 @@
-### E ai, beleza?👋
+### Olá👋
 
 - 🔭 Graduando de Licenciatura em Computação na UPE-Campus Garanhuns.
 - 📫 Contate me pelo email: joao.samuellc@gmail.com
